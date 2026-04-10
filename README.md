@@ -1,4 +1,5 @@
-# Comparative-Sales-Dashboard
+# Comparative Sales Dashboard
+
 Power BI dashboard with time-intelligence measures and 90-day forecast
 
 ## Project Overview
@@ -14,3 +15,6 @@ One unit was a declining seasonal operation; the other was a 7x larger growth en
 ## Tools Used
 - Power BI
 - DAX
+
+## Group Presentation
+This was a group project presented with two other team members.
